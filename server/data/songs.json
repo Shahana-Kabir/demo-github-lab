@@ -1,5 +1,4 @@
-[
-  {
+[{
     "id": 1,
     "title": "Viva La Vida",
     "artist": "Coldplay",
@@ -9,7 +8,7 @@
   },
   {
     "id": 2,
-    "title": "Amir's fav song",
+    "title": "Coming Over",
     "artist": "Filous & James Hersey",
     "releaseDate": "2017",
     "lyricsFile": "coming-over.txt"
@@ -26,5 +25,36 @@
     "title": "Wait for the Moment",
     "artist": "Vulfpeck",
     "releaseDate": "2017"
-  }
+  },
+  {
+    "id": 5,
+    "title": "Super Cool Song",
+    "artist": "Nobody",
+    "releaseDate": "2021"
+  },
+  {
+    "id": 6,
+    "title": "shahana's fav song",
+    "artist": "shera",
+    "releaseDate": "2021"
+  },
+  {
+    "id": 7,
+    "title": "Life is beautiful",
+    "artist": "Gill",
+    "releaseDate": "20212"
+  },
+  {
+    "id": 8,
+    "title": "baby shark",
+    "artist": "babies",
+    "releaseDate": "2021"
+  },
+  {
+    "id": 9,
+    "title": "Amir's fav song",
+    "artist": "Filous & James Hersey",
+    "releaseDate": "2017",
+    "lyricsFile": "coming-over.txt"
+  },
 ]
