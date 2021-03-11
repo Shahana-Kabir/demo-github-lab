@@ -57,4 +57,10 @@
     "releaseDate": "2017",
     "lyricsFile": "coming-over.txt"
   },
+    {
+        "id": 10,
+        "title": "This is a New Song",
+        "artist": "Bob",
+        "releaseDate": "2021"
+    }
 ]
