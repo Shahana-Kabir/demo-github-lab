@@ -1,5 +1,4 @@
-[
-  {
+[{
     "id": 1,
     "title": "Viva La Vida",
     "artist": "Coldplay",
@@ -26,5 +25,11 @@
     "title": "Wait for the Moment",
     "artist": "Vulfpeck",
     "releaseDate": "2017"
+  },
+  {
+    "id": 5,
+    "title": "Life is beautiful",
+    "artist": "Gill",
+    "releaseDate": "20212"
   }
 ]
